@@ -6,3 +6,5 @@ Nome: João Pedro Lima Ribeiro Costa
 Mat:20231002802602
 Nome: Deyvid Soares de Souza Ferreira
 Mat: 20231002801410
+Nome: Rafael Miranda Borba
+Mat: 20231002803048
