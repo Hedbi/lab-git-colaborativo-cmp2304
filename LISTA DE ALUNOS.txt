@@ -4,3 +4,5 @@ Nome: Gabriel José da Costa Souza
 Mat:20231002800588
 Nome: João Pedro Lima Ribeiro Costa
 Mat:20231002802602
+Nome: Deyvid Soares de Souza Ferreira
+Mat: 20231002801410
